@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are making a community for peer to peer learning from scratch!
+We are making a community for learning to build a community, one tech at a time!
 
 [Join us on our slack](https://publicslack.com/slacks/taut-tech/invites/new) as we hack away!
 
