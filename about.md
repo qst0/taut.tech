@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About Taut
+title: About Taut.tech
 permalink: /about/
 ---
-
-# Welcome to Taut.tech
 
 We are making a community for peer to peer learning from scratch!
 
