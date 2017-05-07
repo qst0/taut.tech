@@ -1,4 +1,4 @@
-Adding a header image
+<table><tr><td>Adding a header image</tr><tr><img src="https://github.com/qst0/taut.tech/blob/master/images/tact_tech.png?raw=true"></tr></table>
 
 **Step 1)** get an image (via images.google or any other legal source)<br>
 <font size="2">for **taut.tech**, we used Pacifico from <a href="https://fonts.google.com/?sort=alpha">google fonts</a> to generate "Taut" in varying sizes<br>
