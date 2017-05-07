@@ -1,12 +1,11 @@
-#qst0
+# Welcome to Taut.tech
 
-Hello, I'm qst0--
-Mason Young
+We are making a community for peer to peer learning from scratch!
 
-I'm working on my project hub page using github pages.
+[Join us on our slack](https://publicslack.com/slacks/taut-tech/invites/new) as we hack away!
 
-This was based off a repo that I don't fully understand. I would rather blow this all up and start from a place where I can feel out all the details then this far down the line in the dark.
+We just set up our Github pages, using the [jekyll now](https://github.com/barryclark/jekyll-now) tutorials.
 
-Thinking of a solution now...
+We have our twitter and facebook page live too!
 
-I still don't have a solution to this. But I need to focus on it and not just comment on it and leave it alone again.
+Let's learn!
