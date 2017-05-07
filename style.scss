@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-image: url("./images/wallpaper.jpg") no-repeat center center;
+  background-image: url("./images/wallpaper.jpg") no-repeat center fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
