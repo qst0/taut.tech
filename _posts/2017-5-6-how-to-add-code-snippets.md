@@ -12,17 +12,10 @@ In this tutorial, I will be teaching you how to add great looking code snippets 
 First, find your index.html, and inside the `<head>` tag, paste the following:
 
 <pre class="brush: html; highlight: [5, 15]; html-script: true">
-<script>
-function escapeHTML(text) {
-  var replacements = {"<": "&lt;", ">": "&gt;", "&": "&amp;", "\"": "&quot;"};
-  return text.replace(/[<>&"]/g, function(character) {
-    return replacements[character];
-  });
-}
+
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shCore.css' rel='stylesheet' type='text/css'/> 
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shCoreDefault.css' rel='stylesheet' type='text/css'/> 
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shThemeDefault.css' rel='stylesheet' type='text/css'/> 
 <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js' type='text/javascript'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shAutoloader.js' type='text/javascript'/> 
-</script> 
+
 </pre>
