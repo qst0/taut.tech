@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Metahobby
+title: Meta-guy is it's mascot, He's helping us out with [Taut.tech](http://taut.tech) now too!
 permalink: /metahobby/
 ---
 ![metaguy](http://metahobby.com/metaguy.png)
----
-[MetaHobby.com](http://metahobby.com)
 
 Metahobby is the hobby about hobbies!
 
