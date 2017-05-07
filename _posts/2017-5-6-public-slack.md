@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Taut Slack
-date: 2017-5-6 15:00
+title: Public Slack for an instant community chat
+date: 2017-5-6 15:05
 ---
 ![publicslack](http://i.imgur.com/kxOhfpw.png)
 ------------------------
