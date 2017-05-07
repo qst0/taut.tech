@@ -43,7 +43,7 @@ On the left: qst0 (or Mason Young)
 
 | qst0 (Mason Young)                        | Mio                                    | Elliot                                         |
 |-------------------------------------------|----------------------------------------|------------------------------------------------|
-| ![qst0](http://i.imgur.com/uPwHVcn.png)   | ![](http://i.imgur.com/wRGOrdx.png)    | ![](http://i.imgur.com/MFN8YDc.png)            |
+| ![qst0](http://i.imgur.com/uPwHVcn.png)   | ![](http://i.imgur.com/3HAe5OZ.png)    | ![](http://i.imgur.com/XzySVBc.png)            |
 | > "I'm a programmer, teacher and friend to all!" | > "Something Mio would say goes here!" | > "Something Elliot would say goes here!" |
 
 ### Awesome sites that help made this possible
