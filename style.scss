@@ -20,7 +20,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width  : 1200px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
@@ -102,7 +102,7 @@ strong, b {
 }
 
 img {
-  max-width: 85%;
+  max-width: 100%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -255,12 +255,6 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-
-.post{
-  max-width: 700px;
-  width: 85%;
-  margin: 0 auto;
-}
 
   .comments {
     margin-top: 10px;
