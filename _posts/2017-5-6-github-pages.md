@@ -5,7 +5,7 @@ date: 2017-5-6 15:06
 ---
 ![github pages](http://i.imgur.com/ofxzj7Q.png)
 ------
-Generate a website faster than ever with Github Pages
+Generate a website faster than ever with [GitHub Pages Guide](https://pages.github.com/).
 
 Follow the [GitHub Pages Guide](https://pages.github.com/).
 
