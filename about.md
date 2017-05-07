@@ -15,10 +15,10 @@ We have our twitter and facebook page live too!
 Let's learn!
 
 
-Hello!
-I'm qst0 or Mason Young.
+## Meet the team!
 
-I'm a programmer, teacher and friend to all!
+qst0 (or Mason Young)
+> I'm a programmer, teacher and friend to all!
 
 ### Awesome sites that help made this possible
 * https://github.com/
