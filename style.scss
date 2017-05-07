@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-image: url("./images/wallpaper.jpg");
+  background-image: url("./images/wallpaper.jpg") no-repeat center center fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -283,6 +283,10 @@ nav {
   }
 }
 
+.post{
+  background: #FFFFFF;	
+}
+	
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
