@@ -13,7 +13,7 @@ html {
 }
 
 body {
-	background: $white;
+  background-image: url("./images/wallpaper.jpg");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -147,6 +147,7 @@ img {
 .wrapper-masthead {
   background: #FFFFFF;
   border-bottom: 1px solid #d3d3d3;
+  box-shadow: 0px 8px 15px -1px #a8a8a8;
   z-index: 1000;
 }
 
