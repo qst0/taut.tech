@@ -4,7 +4,7 @@ title: Go-pher it!
 date: 2017-5-7 00:44
 ---
 
-![go lang](http://i.imgur.com/17YyZAe.png)
+![go lang](http://i.imgur.com/zuqGyb3.png)
 
 We started learning about Go at the Hackathon!
 
