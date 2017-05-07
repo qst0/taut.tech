@@ -13,4 +13,4 @@ the header for this page was an arbitrary *328 x 79* only because the resolution
 b. head to ~/layouts/default.html (assuming you have the <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a><br>
 c. find "<textarea rows="1" cols="60"><h1 class="site-name"><a href="{ { site.baseurl }}">{{ site.name }}</a></h1></textarea>"<br>
 d. replace <textarea rows="1" col="1">{ { site.name }}</textarea> with <textarea rows="1" cols="25"><img src="your-url-here"></textarea><br>
-e. repeat Step 2 and make adjustments until perfect<p></font>
+e. repeat Step 2 and make adjustments until perfect</font><p>
