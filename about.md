@@ -21,37 +21,20 @@ Let's learn!
 
 ---
 
-On the right: TODO Elliot
-
-![](http://i.imgur.com/I4K06E3.png)
-
-> "Something Elliot would say goes here!"
-
-In the middle: TODO Mio
-
-![](http://i.imgur.com/wRGOrdx.png)
-
-> "Something Mio would say goes here!"
-
-On the left: qst0 (or Mason Young)
-
-![qst0](http://i.imgur.com/MFN8YDc.png)
-
-> I'm a programmer, teacher and friend to all!
-
----
-
-| qst0 (Mason Young)                        | Mio                                    | Elliot                                         |
+| qst0 (Mason Young)                        | Mio                                    |  Elliot                                        |
 |-------------------------------------------|----------------------------------------|------------------------------------------------|
-| ![qst0](http://i.imgur.com/uPwHVcn.png)   | ![](http://i.imgur.com/3HAe5OZ.png)    | ![](http://i.imgur.com/XzySVBc.png)            |
+| ![qst0](http://i.imgur.com/uPwHVcn.png)   | ![Mio](http://i.imgur.com/3HAe5OZ.png) | ![Elliot](http://i.imgur.com/XzySVBc.png)      |
 | > "I'm a programmer, teacher and friend to all!" | > "Something Mio would say goes here!" | > "Something Elliot would say goes here!" |
 
-### Awesome sites that help made this possible
+### Awesome sites that help made this learning possible
+
 * https://github.com/
-* https://www.khanacademy.org
 * https://slack.com
-* More to come...
+* https://twitter.com
+* https://facebook.com
+* https://www.khanacademy.org
+* Many many more...
 
 ### Send us an email!
 
-Email Mason Young @ [msnyng@gmail.com](mailto:msnyng@gmail.com)
+Email qst0 (Mason Young) @ [msnyng+taut-tech@gmail.com](mailto:msnyng@gmail.com)
