@@ -4,15 +4,9 @@ title: Our Team
 permalink: /our-team/
 ---
 
-We are making a community for peer to peer learning from scratch!
+Are we born to code?
 
-[Join us on our slack](https://publicslack.com/slacks/taut-tech/invites/new) as we hack away!
-
-We just set up our Github pages, using the [jekyll now](https://github.com/barryclark/jekyll-now) tutorials.
-
-We have our twitter and facebook page live too!
-
-Let's learn!
+Three [42US](https://www.42.us.org/) cadets are up <strike>to no good</strike> till 3am (and counting) at #[siliconhacks](http://www.siliconhacks.com/)!
 
 
 ## Meet the team!
@@ -21,7 +15,7 @@ Let's learn!
 
 ---
 
-| qst0 (Mason Young)                             | Mio                                    |  Elliot                                        |
+| qst0 (Mason Young)                             | Meo                                    |  Elliot                                        |
 |------------------------------------------------|----------------------------------------|------------------------------------------------|
-| ![qst0](http://i.imgur.com/uPwHVcn.png)        | ![Mio](http://i.imgur.com/3HAe5OZ.png) | ![Elliot](http://i.imgur.com/XzySVBc.png)      |
-| "I'm a programmer, teacher and friend to all!" | "Something Mio would say goes here!"   | "Something Elliot would say goes here!"        |
+| ![qst0](http://i.imgur.com/uPwHVcn.png)        | ![Meo](http://i.imgur.com/3HAe5OZ.png) | ![Elliot](http://i.imgur.com/XzySVBc.png)      |
+| "I'm a programmer, teacher and friend to all!" | "Making this taut me a lot ( ͡° ͜ʖ ͡°)"   | "Something Elliot would say goes here!"        |
