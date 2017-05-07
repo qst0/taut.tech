@@ -264,7 +264,6 @@ nav {
   border-left: 1px solid #d3d3d3;
   box-shadow: 12px 0 15px -1px #a8a8a8, -12px 0 15px -1px #a8a8a8;
   position: relative;
-  top: 10px;
 }
 	
 .post {
@@ -289,6 +288,8 @@ nav {
 
 .post{
   background: #FFFFFF;
+  position: relative;
+  top: 15px;
 }
 	
 .wrapper-footer {
