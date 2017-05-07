@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Our Team
 permalink: /our-team/
 ---
 
@@ -13,6 +13,18 @@ We just set up our Github pages, using the [jekyll now](https://github.com/barry
 We have our twitter and facebook page live too!
 
 Let's learn!
+
+
+## Meet the team!
+
+![](http://i.imgur.com/OCKihgF.jpg)
+
+---
+
+| qst0 (Mason Young)                        | Mio                                    |  Elliot                                        |
+|-------------------------------------------|----------------------------------------|------------------------------------------------|
+| ![qst0](http://i.imgur.com/uPwHVcn.png)   | ![Mio](http://i.imgur.com/3HAe5OZ.png) | ![Elliot](http://i.imgur.com/XzySVBc.png)      |
+| > "I'm a programmer, teacher and friend to all!" | > "Something Mio would say goes here!" | > "Something Elliot would say goes here!" |
 
 ### Awesome sites that help made this learning possible
 
