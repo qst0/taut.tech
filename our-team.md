@@ -21,20 +21,7 @@ Let's learn!
 
 ---
 
-| qst0 (Mason Young)                        | Mio                                    |  Elliot                                        |
-|-------------------------------------------|----------------------------------------|------------------------------------------------|
-| ![qst0](http://i.imgur.com/uPwHVcn.png)   | ![Mio](http://i.imgur.com/3HAe5OZ.png) | ![Elliot](http://i.imgur.com/XzySVBc.png)      |
-| > "I'm a programmer, teacher and friend to all!" | > "Something Mio would say goes here!" | > "Something Elliot would say goes here!" |
-
-### Awesome sites that help made this learning possible
-
-* https://github.com/
-* https://slack.com
-* https://twitter.com
-* https://facebook.com
-* https://www.khanacademy.org
-* Many many more...
-
-### Send us an email!
-
-Email qst0 (Mason Young) @ [msnyng+taut-tech@gmail.com](mailto:msnyng@gmail.com)
+| qst0 (Mason Young)                             | Mio                                    |  Elliot                                        |
+|------------------------------------------------|----------------------------------------|------------------------------------------------|
+| ![qst0](http://i.imgur.com/uPwHVcn.png)        | ![Mio](http://i.imgur.com/3HAe5OZ.png) | ![Elliot](http://i.imgur.com/XzySVBc.png)      |
+| "I'm a programmer, teacher and friend to all!" | "Something Mio would say goes here!"   | "Something Elliot would say goes here!"        |
