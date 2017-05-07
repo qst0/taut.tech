@@ -20,7 +20,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 1080px;
+  max-width  : 1080px;
   padding: 0 10px;
   width: 100%;
 }
@@ -255,6 +255,11 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
+
+.post{
+  max-width: 700px;
+  width: 75%;
+}
 
   .comments {
     margin-top: 10px;
