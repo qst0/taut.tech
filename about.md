@@ -19,6 +19,8 @@ Let's learn!
 
 ![](http://i.imgur.com/OCKihgF.jpg)
 
+---
+
 On the right: TODO Elliot
 
 ![](http://i.imgur.com/I4K06E3.png)
@@ -36,6 +38,13 @@ On the left: qst0 (or Mason Young)
 ![qst0](http://i.imgur.com/MFN8YDc.png)
 
 > I'm a programmer, teacher and friend to all!
+
+---
+
+| On the right: TODO Elliot                 | In the middle: TODO Mio                | On the left: qst0 (or Mason Young)             |
+|-------------------------------------------|----------------------------------------|------------------------------------------------|
+| ![](http://i.imgur.com/I4K06E3.png)       | ![](http://i.imgur.com/wRGOrdx.png)    | ![qst0](http://i.imgur.com/MFN8YDc.png)        |
+| > "Something Elliot would say goes here!" | > "Something Mio would say goes here!" | > I'm a programmer, teacher and friend to all! |
 
 ### Awesome sites that help made this possible
 * https://github.com/
