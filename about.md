@@ -17,7 +17,13 @@ Let's learn!
 
 ## Meet the team!
 
-qst0 (or Mason Young)
+![](http://i.imgur.com/OCKihgF.jpg)
+
+On the right: TODO Elliot
+
+In the middle: TODO Mio
+
+On the left: qst0 (or Mason Young)
 > I'm a programmer, teacher and friend to all!
 
 ### Awesome sites that help made this possible
