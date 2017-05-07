@@ -1,7 +1,7 @@
-Adding a header image :haircut:
+Adding a header image
 
 **Step 1) get an image (via images.google or any other legal source)**<br>
-<sup><sub>for **taut.tech**, we used Pacifico from [google fonts](https://fonts.google.com/?sort=alpha) to generate "Taut" in varying sizes<br>
+<font size="1">for **taut.tech**, we used Pacifico from [google fonts](https://fonts.google.com/?sort=alpha) to generate "Taut" in varying sizes<br>
 the ".tech" was taken from [get.tech](get.tech) ((*thank you*))
 
 **Step 2) edit image to your liking**<br>
