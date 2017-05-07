@@ -5,7 +5,7 @@ date: 2017-5-6 04:44
 ---
 ![HackHarassment](http://i.imgur.com/JPjxtTK.png)
 ------
-[#HackHarassment](https://www.hackharassment.com/) Take the pledde to stop online Harassment!
+[#HackHarassment](https://www.hackharassment.com/) Take the pledge to stop online Harassment!
 
 Hack Harassment is a coalition of organizations and individuals
 who share in the common goal of building a more inclusive and
