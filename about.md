@@ -1,21 +1,33 @@
 ---
 layout: page
-title: qst0
+title: About Taut
 permalink: /about/
 ---
+
+# Welcome to Taut.tech
+
+We are making a community for peer to peer learning from scratch!
+
+[Join us on our slack](https://publicslack.com/slacks/taut-tech/invites/new) as we hack away!
+
+We just set up our Github pages, using the [jekyll now](https://github.com/barryclark/jekyll-now) tutorials.
+
+We have our twitter and facebook page live too!
+
+Let's learn!
+
 
 Hello!
 I'm qst0 or Mason Young.
 
 I'm a programmer, teacher and friend to all!
 
-### You want to know more?
-A great way to learn more about a person is to know what they like!
-Here is a list of some sites I enjoy:
-* https://www.khanacademy.org
+### Awesome sites that help made this possible
 * https://github.com/
+* https://www.khanacademy.org
+* https://slack.com
 * More to come...
 
-### Send me an email!
+### Send us an email!
 
-[msnyng@gmail.com](mailto:msnyng@gmail.com)
+Email Mason Young @ [msnyng@gmail.com](mailto:msnyng@gmail.com)
