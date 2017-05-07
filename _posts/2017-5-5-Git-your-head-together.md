@@ -1,3 +1,8 @@
+---
+layout: post
+title: Git your head together
+date: 2017-5-6 20:00
+---
 <table><tr align="center"><td>Adding a header image<p><tr><img src="http://i.imgur.com/cKzUztc.jpg">
 
 **Step 1)** get an image (via images.google or any other legal source)<br>

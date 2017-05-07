@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /our-team/
+permalink: /about/
 ---
 
 We are making a community for peer to peer learning from scratch!
