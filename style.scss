@@ -12,6 +12,12 @@ html {
   font-size: 100%;
 }
 
+header{
+  background: #FFFFFF;
+  position: relative;
+  z-index: 1;
+}
+
 body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
