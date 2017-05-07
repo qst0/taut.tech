@@ -29,7 +29,7 @@ In this tutorial, I will be teaching you how to add great looking code snippets 
 
 First, find your index.html, and inside the `<head>` tag, paste the following:
 
-<pre class="brush: html">
+<pre class="brush:html">
 <code>
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shCore.css' rel='stylesheet' type='text/css'/> 
 <link href='http://alexgorbatchev.com/pub/sh/current/styles/shCoreDefault.css' rel='stylesheet' type='text/css'/> 
