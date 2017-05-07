@@ -1,3 +1,13 @@
+# Welcome to Taut.tech
+
+We are making a community for peer to peer learning from scratch!
+
+[Join us on our slack](https://publicslack.com/slacks/taut-tech/invites/new) as we hack away!
+
+We just set up our Github pages, here is the default info below!
+
+Let's learn!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/qst0/taut.tech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
