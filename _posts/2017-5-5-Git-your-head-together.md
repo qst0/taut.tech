@@ -10,7 +10,7 @@ the header for this page was an arbitrary *328 x 79* only because the resolution
 
 **Step 3)** putting it on the website<br>
 <font size="2">a. assuming you want to add an image where your site name is...<br>
-b. head to ~/layouts/default.html (assuming you have the *[jekyll-now](https://github.com/barryclark/jekyll-now)* layout)<br>
-c. find "<textarea rows="2" cols="35"><h1 class="site-name"><a href="{ { site.baseurl }}">{{ site.name }}</a></h1></textarea>"<br>
+b. head to ~/layouts/default.html (assuming you have the <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a><br>
+c. find "<textarea rows="1" cols="80"><h1 class="site-name"><a href="{ { site.baseurl }}">{{ site.name }}</a></h1></textarea>"<br>
 d. replace <textarea rows="1" col="35">{ { site.name }}</textarea> with <textarea rows="1" cols="35"><img src="your-url-here"></textarea><br>
 e. repeat Step 2 and make adjustments until perfect</font>
