@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add code snippets to your site with syntax highlighting
+title: Code snippets with syntax highlighting
 date: 2017-5-6 15:00
 ---
 ![codesnippet](http://i.imgur.com/4w1OEUa.png)
