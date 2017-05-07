@@ -1,8 +1,8 @@
 Adding a header image :haircut:
 
 **Step 1) get an image (via images.google or any other legal source)**<br>
->for **taut.tech**, we used Pacifico from [google fonts](https://fonts.google.com/?sort=alpha) to generate "Taut" in varying sizes<br>
->the ".tech" was taken from [get.tech](get.tech) :pray::stuck_out_tongue_winking_eye: ((*thank you*))
+><font size=1>for **taut.tech**, we used Pacifico from [google fonts](https://fonts.google.com/?sort=alpha) to generate "Taut" in varying sizes<br>
+>the ".tech" was taken from [get.tech](get.tech) ((*thank you*))</font>
 
 **Step 2) edit image to your liking**<br>
 >we used Gimp and made images *400*(width) *x 150*(height) for Facebook headers and *800 x 300* for Twitter<br>
