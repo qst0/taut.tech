@@ -4,6 +4,7 @@ title: Forms are easy with Typeform
 date: 2017-5-6 17:00
 ---
 ![typeform](https://cms-assets.tutsplus.com/uploads/users/26/posts/19977/preview_image/typeform_logo.png)
+
 Want to help us add content? Fill out [our Typeform](https://tauttech.typeform.com/to/q0sPZn) and learn more about this quick and easy tech at the same time!
 
 You can even imbed the Typeform live on your site:
