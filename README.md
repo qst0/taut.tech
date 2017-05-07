@@ -14,13 +14,13 @@ Let's learn!
 
 Hacks used:
 
-Silicon Hacks
-whois
-Slack.com
-Facebook pages
-Twitter
-github pages and public repo
-free .tech domain from MLH
-Jekyll static site generation
-barryclark/jekyll-now
-IFTTT
+* Silicon Hacks
+* whois
+* Slack.com
+* Facebook pages
+* Twitter
+* github pages and public repo
+* free .tech domain from MLH
+* Jekyll static site generation
+* barryclark/jekyll-now
+* IFTTT
