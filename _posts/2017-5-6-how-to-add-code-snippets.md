@@ -11,7 +11,7 @@ In this tutorial, I will be teaching you how to add great looking code snippets 
 
 First, find your index.html, and inside the `<head>` tag, paste the following:
 
-<pre class="brush: xml; highlight: [5, 15]; html-script: true">
+<pre class="brush: html; highlight: [5, 15]; html-script: true">
 <script>
 function escapeHTML(text) {
   var replacements = {"<": "&lt;", ">": "&gt;", "&": "&amp;", "\"": "&quot;"};
