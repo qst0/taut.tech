@@ -21,9 +21,20 @@ Let's learn!
 
 On the right: TODO Elliot
 
+![](http://i.imgur.com/I4K06E3.png)
+
+> "Something Elliot would say goes here!"
+
 In the middle: TODO Mio
 
+![](http://i.imgur.com/wRGOrdx.png)
+
+> "Something Mio would say goes here!"
+
 On the left: qst0 (or Mason Young)
+
+![qst0](http://i.imgur.com/MFN8YDc.png)
+
 > I'm a programmer, teacher and friend to all!
 
 ### Awesome sites that help made this possible
