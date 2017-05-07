@@ -3,7 +3,7 @@ layout: post
 title: Git your head together
 date: 2017-5-6 20:00
 ---
-<table><tr align="center"><td>Adding a header image<p><tr><img src="http://i.imgur.com/cKzUztc.jpg">
+<table><tr align="center"><td>Don't lose your head over adding a Header Image!<p><tr><img src="http://i.imgur.com/cKzUztc.jpg">
 
 **Step 1)** get an image (via images.google or any other legal source)<br>
 <font size="2">for **taut.tech**, we used Pacifico from <a href="https://fonts.google.com/?sort=alpha">google fonts</a> to generate "Taut" in varying sizes<br>
