@@ -144,9 +144,9 @@ img {
 // .masthead
 //
 
-//.wrapper-masthead {
- // margin-bottom: 10px;
-//}
+.wrapper-masthead {
+  z-index: 1;
+}
 
 .masthead {
   padding: 20px 0;
