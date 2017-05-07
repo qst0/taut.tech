@@ -3,9 +3,9 @@ layout: post
 title: #HackHarassment
 date: 2017-5-6 04:44
 ---
-![HackHarhassment](http://i.imgur.com/JPjxtTK.png)
+![HackHarassment](http://i.imgur.com/JPjxtTK.png)
 ------
-[#HackHarhassment](https://www.hackharassment.com/) Take the plegde to stop online Harassment!
+[#HackHarassment](https://www.hackharassment.com/) Take the pledde to stop online Harassment!
 
 Hack Harassment is a coalition of organizations and individuals
 who share in the common goal of building a more inclusive and
