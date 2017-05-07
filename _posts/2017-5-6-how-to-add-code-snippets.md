@@ -1,26 +1,8 @@
-<!-- SyntaxHighlighter -->
-<!-- 1- Core javascript and css -->
-<link href='http://alexgorbatchev.com/pub/sh/current/styles/shCore.css' rel='stylesheet' type='text/css'/> 
-<link href='http://alexgorbatchev.com/pub/sh/current/styles/shCoreDefault.css' rel='stylesheet' type='text/css'/> 
-<link href='http://alexgorbatchev.com/pub/sh/current/styles/shThemeDefault.css' rel='stylesheet' type='text/css'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js' type='text/javascript'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shAutoloader.js' type='text/javascript'/>
-
-<!-- 2- Brushes -->
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushPlain.js' type='text/javascript'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushBash.js' type='text/javascript'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushJava.js' type='text/javascript'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushRuby.js' type='text/javascript'/> 
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushScala.js' type='text/javascript'/>
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushXml.js' type='text/javascript'/>
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushCss.js' type='text/javascript'/>  
-<script src='http://alexgorbatchev.com/pub/sh/current/scripts/shBrushJScript.js' type='text/javascript'/>  
-  
-<!-- 3- Activate SyntaxHighlighter -->
-<script language='javascript' type='text/javascript'> 
-    SyntaxHighlighter.config.bloggerMode = true;
-    SyntaxHighlighter.all();
-</script>
+---
+layout: post
+title: How to add Code Snippets
+date: 2017-5-7 10:44
+---
 ![codesnippet](http://i.imgur.com/4w1OEUa.png)
 
 In this tutorial, I will be teaching you how to add great looking code snippets to your website! We will be using a Javascript API called [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter) to help us with this task. Sure, we could code our own syntax highlighter, but a popular saying in the programming world is ***"don't reinvent the wheel"*** -- Which basically means, if someone else has already written a great piece of code for your intended purpose, unless you can somehow improve upon it, just use it.
