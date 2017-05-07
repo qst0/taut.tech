@@ -15,3 +15,8 @@ First, find your index.html, and inside the `<head>` tag, paste the following:
 <script src='http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js' type='text/javascript'> </script>
 </code>
 </pre>
+ {% for js in page.jsarr %}
+     <script type="text/javascript">
+     {% include {{ js }} %}
+     </script>
+ {% endfor %}
