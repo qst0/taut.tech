@@ -4,7 +4,7 @@
 - [ ] Stage 2: Post-mortem Lessons
 - [ ] Stage 3: ...
 
-## [Post-mortem](http://taut.tech/post-mortem)
+## [Post-mortem](http://taut.tech/post-mortem) in progress!
 
 ![taut.tech](http://i.imgur.com/wlwBJvg.png)
 
