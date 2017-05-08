@@ -1,8 +1,8 @@
 # Welcome to the Taut.tech Github Page
 
-[x] Stage 1: Hackathon Bootstrap
-[ ] Stage 2: Post-mortem Lessons
-[ ] Stage 3: ...
+- [x] Stage 1: Hackathon Bootstrap
+- [ ] Stage 2: Post-mortem Lessons
+- [ ] Stage 3: ...
 
 ## [Post-mortem](http://taut.tech/post-mortem)
 
