@@ -4,7 +4,7 @@ title: combuild-guide
 permalink: /combuild-guide/
 ---
 
-Taken from bingle_dunderberry of [yugidecks.com](yugidecks.com) fame.
+Taken from bingle_dunderberry of [yugidecks.com](https://yugidecks.com) fame.
 
 Shout out to him, thanks for joining our slack.
 
