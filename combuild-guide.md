@@ -52,3 +52,8 @@ Whether it’s ads, affiliate links, or premium membership, monetization should 
 Don’t make the experience different for the creator vs. consumer.
 For example, don’t create a separate login screen unless you really need to.
 It’s more often than not that the creator target market is exactly the same as the consumer target market.
+
+---
+
+Hope you enjoyed that, Disqus it below!
+{% include disqus.html %}
